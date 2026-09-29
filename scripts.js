@@ -1,6 +1,6 @@
 function setTime() {
   const now = new Date();
-  
+
   const time = now.toLocaleTimeString('fi-FI');
 
   const dateOptions = {
