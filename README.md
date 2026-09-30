@@ -1,4 +1,4 @@
-#Git-versiohallinta
+# Git-versiohallinta
 
 Kurssi: Git-versionhallinta - SOF013AS2A-3003
 Tekijä: Vladlena Kornienko 
